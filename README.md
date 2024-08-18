@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/7053e9a5-7399-4b7b-baf1-1c605c0b0d99
+
+
+
 
 # -Aygaz-Python-Bootcamp-Yeni-Nesil-Proje-Kampı(1 Ağustos - 30 Ağustos 2024)
 🎮Car Wars (Alternative game to rock paper scissors )🏎️🚗
@@ -27,3 +29,4 @@ BMW wins against Audi.
 Audi wins against Mercedes.
 Mercedes wins against BMW.
 
+https://github.com/user-attachments/assets/4ab10075-ad68-4cad-b9e9-21e48cfb03d4
