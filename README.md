@@ -6,11 +6,17 @@
 
 # 🎮Car Wars (Alternative game to rock paper scissors )🏎️🚗
 📋Game rules📋
+
 📌 You can play the game against your friend or the computer.
+
 📌 You have 3 options to select a car brand: (Audi, BMW, Mercedes).
+
 📌 You have 3 options to select a category: (Luxury, Performance, Tech).
+
 📌 Once you have selected a category, you must play within that category until a winner is determined.
+
 📌 At the end of each game, if both answers are 'yes,' the game will continue; otherwise, the game will end.
+
 
 ⚠️Conditions⚠️
 
