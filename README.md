@@ -13,6 +13,7 @@
 📌 At the end of each game, if both answers are 'yes,' the game will continue; otherwise, the game will end.
 
 ⚠️Conditions⚠️
+
 💎Luxury💎
 Mercedes wins against BMW.
 BMW wins against Audi.
