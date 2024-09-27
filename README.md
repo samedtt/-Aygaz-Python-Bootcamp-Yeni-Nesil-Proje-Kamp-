@@ -4,7 +4,7 @@
 
 
 
-# -Aygaz-Python-Bootcamp-Yeni-Nesil-Proje-Kampı(1 Ağustos - 30 Ağustos 2024)
+
 🎮Car Wars (Alternative game to rock paper scissors )🏎️🚗
 📋Game rules📋
 📌 You can play the game against your friend or the computer.
